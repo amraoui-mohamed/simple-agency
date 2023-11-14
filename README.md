@@ -38,21 +38,14 @@ Access the website at `http://localhost:8000` in your web browser.
 - Contact page with a form to send inquiries
 
 ## Screenshots
+### Home & About Us Sections
+![vlcsnap-2023-11-14-19h54m37s106](https://github.com/amraouimohamedtaher/simple-agency/assets/83549709/c3b83bb3-0081-476b-a094-20d837bcc27a)
 
-<p align="center">
-  ![vlcsnap-2023-11-14-19h54m37s106](https://github.com/amraouimohamedtaher/simple-agency/assets/83549709/c3b83bb3-0081-476b-a094-20d837bcc27a)
-</p>
-
-<p align="center">
+### Team & Services Sections
   ![vlcsnap-2023-11-14-19h54m49s585](https://github.com/amraouimohamedtaher/simple-agency/assets/83549709/be1ef9ce-f16a-4f52-a700-8edc46ece90a)
-</p>
 
-<p align="center">
+### Projects & Contact Section
    ![vlcsnap-2023-11-14-19h55m06s904](https://github.com/amraouimohamedtaher/simple-agency/assets/83549709/b0c59d34-c7b8-4212-9ef3-dc5432295eef)
-</p>
-
-<p align="center">
-  </p>
 
 ## Technologies Used
 
